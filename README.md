@@ -24,7 +24,7 @@ Amo l’open source e la storia dell’informatica. Dietro una tecnologia vedo c
 
 È il nome che uso per progetti, esperimenti e idee sul modo in cui vorrei costruire software. Tiene insieme due esigenze apparentemente opposte: scegliere soluzioni proporzionate quando qualcosa deve funzionare e concedersi idee irragionevoli quando lo scopo è imparare.
 
-È anche un possibile futuro: una realtà dedicata al software open source, costruita fuori dai grandi centri e capace di dare spazio a persone tecnicamente talentuose.
+È anche un possibile futuro: una realtà dedicata al software open source, costruita fuori dai grandi centri e capace di dare spazio a persone curiose, competenti e responsabili.
 
 Non è un’azienda. Non ancora, almeno.
 
